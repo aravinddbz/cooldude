@@ -1,2 +1,0 @@
-# cooldude
-Begin app
